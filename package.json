@@ -7,6 +7,15 @@
     "dist",
     "src"
   ],
+  "repository": {
+    "url": "https://github.com/pmonleon/monleon-product-card",
+    "type": "git"
+  },
+  "keywords": [
+    "product",
+    "card",
+    "monleon"
+  ],
   "engines": {
     "node": ">=10"
   },
