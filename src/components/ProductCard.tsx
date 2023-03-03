@@ -12,7 +12,6 @@ const { Provider } = ProductContext;
 
 export interface Props {
     product: Product;
-   // children?: React.ReactElement | React.ReactElement[];
     children?: (args: ProductCardHandler) => JSX.Element
     className?: string;
     style?: React.CSSProperties;
