@@ -1,0 +1,21 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ProducImage Debe mostrar el componente Title con los datos del context 1`] = `
+<div
+  className="productCard undefined"
+>
+  <img
+    alt="Product"
+    className="productImg undefined"
+    src="./coffee-mug.png"
+  />
+</div>
+`;
+
+exports[`ProducImage Debe mostrar el componente Title con los dtaos de las props 1`] = `
+<img
+  alt="Product"
+  className="productImg custom-class"
+  src="./no-image.jpg"
+/>
+`;

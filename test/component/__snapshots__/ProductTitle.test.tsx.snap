@@ -1,0 +1,21 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ProducTitle Debe mostrar el componente Title con los datos del context 1`] = `
+<div
+  className="productCard undefined"
+>
+  <span
+    className="productDescription undefined"
+  >
+    Coffee Mug - Card 1
+  </span>
+</div>
+`;
+
+exports[`ProducTitle Debe mostrar el componente Title con los dtaos de las props 1`] = `
+<span
+  className="productDescription custom-class"
+>
+  Custom Product
+</span>
+`;
